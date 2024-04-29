@@ -4,5 +4,4 @@ Trabajos Desarrollados en C++:
 - Sistema Alimentador Automático Mascota
 - Alarma aviso por SMS
 - Sistema Corta Corriente
-- Sistema Automatico Desinfecta Zapatos
 
