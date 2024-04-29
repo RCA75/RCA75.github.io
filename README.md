@@ -1,2 +1,7 @@
 # RCA75.github.io
-Mi Portafolio de Trabajos Realizados como FullSatck JavaScripts
+Mi Portafolio de Trabajos Realizados de diversos códigos:
+
+  - C++
+  - Scratch
+  - JavaScripts
+  - Python
