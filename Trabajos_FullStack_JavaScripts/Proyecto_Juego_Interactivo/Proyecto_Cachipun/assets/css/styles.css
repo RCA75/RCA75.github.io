@@ -1,0 +1,14 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    background: #a59d9d;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+}

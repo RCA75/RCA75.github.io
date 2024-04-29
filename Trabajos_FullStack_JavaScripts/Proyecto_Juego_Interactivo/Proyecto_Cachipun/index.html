@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+    <!-- importar bootstrap local -->
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+
+    <!-- importar estilo propio-->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+</head>
+<body>
+    <main class="container">
+        <section class="row row-cols-1 row-cols-lg-3 py-5">
+            <div class="col">
+                <h3 class="px-3">JUEGA CACHIPUN</h3>
+                <h4 class="p-3">Ingrese: </h4>
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="N° de juegos" aria-label="juegos" aria-describedby="input-juegos" id="juegos">
+                    <div class="input--append">
+                        <button class="btn btn-outline-dark" type="button" id="jugada" onclick="jugada()">Jugar</button>
+                    </div>
+                </div>
+                <h5 id="jugaras" class="px-3"></h5>
+                
+                <h5 class="py-3">Selecciona tú Jugada</h5>
+                <div class="btn-group btn-block">
+                    <button type="button" class="btn btn-success" onclick="selecciona(2)">Piedra</button>
+                    <button type="button" class="btn btn-warning" onclick="selecciona(0)">Papel</button>
+                    <button type="button" class="btn btn-danger" onclick="selecciona(1)">Tijeras</button>
+                </div>
+
+            </div>
+
+            <div class="col p-5 box">
+                <div id="resultado">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- script para importar jquery -->
+    <script src="./assets/js/jquery.min.js"></script>
+    <!-- script para importar popper -->
+    <script src="./assets/js/popper.min.js"></script>
+    <!-- script para importar boostrap -->
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <!-- script para importar main.js -->
+    <script src="./assets/js/main.js"></script>
+</body>
+</html>
