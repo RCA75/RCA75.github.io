@@ -1,0 +1,12 @@
+{
+  "name": "desafio-cotiza-con-bluemoney-main",
+  "version": "1.0.0",
+  "description": "### Módulo 6 ### Desarrollo Backend en Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
