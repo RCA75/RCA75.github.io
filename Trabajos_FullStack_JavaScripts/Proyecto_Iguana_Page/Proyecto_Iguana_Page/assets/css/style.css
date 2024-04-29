@@ -1,0 +1,109 @@
+
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+body *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 0.36%;
+}
+
+h2{
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+p{
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+nav{
+    width: 100%;
+background: #000000;
+}
+
+header{
+    text-align: center;
+    background: #000000 0% 0% no-repeat padding-box;
+}
+
+header img{
+    width: 100%;
+}
+
+footer{
+    background: #1E1A13;
+    padding: 2% 23.1%;
+}
+
+footer h2{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.desc-section{
+    background: #000000 0% 0% no-repeat padding-box;
+    display: flex;
+    justify-content: space-around;
+    padding: 4% 12%;
+}
+
+.desc-section img{
+    width: 31%;
+    padding-left: 8.3%;
+}
+
+.icons-section{
+    background: #1E1A13;
+}
+
+.icons-section h2{
+    padding-top: 2%;
+    font-size: 40px;
+   
+}
+.iconos{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.iconos div{
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+}
+.icons-section span{
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.icons-section p{
+    padding-top: 5%;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.galeria-section{
+    background: #000000;
+    display: flex;
+    justify-content: space-around;
+    padding: 3.79%;
+}
+.galeria-section img{
+    width: 24.68%;
+}
