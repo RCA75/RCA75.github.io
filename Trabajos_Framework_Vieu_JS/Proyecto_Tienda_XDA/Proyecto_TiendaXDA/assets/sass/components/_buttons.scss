@@ -1,0 +1,12 @@
+@mixin button5{
+    @include raleway800;
+    margin-top: 1em;
+  width: 13em;
+  height: 4em;
+
+  font-size: 1em;
+  
+  background-color: white;
+  color: $smoky-black;
+  border: 2px solid $granite-gray;
+}

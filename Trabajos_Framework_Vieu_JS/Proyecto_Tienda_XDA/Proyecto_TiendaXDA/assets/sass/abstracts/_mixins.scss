@@ -1,0 +1,51 @@
+@mixin font_old800{
+    font-family: 'Old Standard TT', serif;
+    font-weight: 800;
+}
+@mixin raleway400{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+@mixin raleway800 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    
+}
+
+@mixin leftbox {
+    width: 6em;
+  height: 6em;
+  background-color: $smoky-black;
+  position:fixed;
+    
+}
+
+@mixin mode_vertical {
+    color:$smoky-black;
+        writing-mode: vertical-rl;
+    
+}
+
+@mixin navbar_hover {
+    background-color: #ddd;
+    color: $smoky-black;
+    
+}
+
+@mixin parrafo {
+    color: $granite-gray;
+        line-height: 2em; 
+        @include raleway400();
+    
+}
+
+@mixin h2_leftbox {
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 1.5em;
+   
+
+    
+}
