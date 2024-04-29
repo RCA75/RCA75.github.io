@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Grand Theft Auto V",
+    "rating": 4.48,
+    "released": "2013-09-17",
+    "updated": "2020-09-23",
+    "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg",
+    "id": "game1"
+  },
+  {
+    "name": "Portal 2",
+    "rating": 4.62,
+    "released": "2011-04-18",
+    "updated": "2020-08-03",
+    "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg",
+    "id": "game2"
+  },
+  {
+    "name": "The Witcher 3: Wild Hund",
+    "rating": 4.67,
+    "released": "2015-05-18",
+    "updated": "2020-10-02",
+    "background_image": "https://i.ibb.co/Jrm32qK/juego3.jpg",
+    "id": "game3"
+  },
+  {
+    "name": "Tomb Raider(2013)",
+    "rating": 4.06,
+    "released": "2015-05-18",
+    "updated": "2020-10-02",
+    "background_image": "https://i.ibb.co/3NyjZ00/juego4.jpg",
+    "id": "game2"
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "rating": 4.42,
+    "released": "2015-05-18",
+    "updated": "2020-10-02",
+    "background_image": "https://i.ibb.co/jr0zXT1/juego5.jpg",
+    "id": "game2"
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "rating": 4.42,
+    "released": "2015-05-18",
+    "updated": "2020-10-02",
+    "background_image": "https://i.ibb.co/JdH7069/juego6.jpg",
+    "id": "game2"
+  }
+]
