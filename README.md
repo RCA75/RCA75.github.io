@@ -5,4 +5,3 @@ Mi Portafolio de Trabajos Realizados de diversos códigos:
   - JavaScripts
   - Framework Vieu.js
   - Python
-  - Scratch
